@@ -18,7 +18,7 @@ PajakSight is an automated AI and machine learning reporting co-pilot designed f
 
 **1. Clone the repository:**
 ```bash
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+git clone https://github.com/davidsanotona/onlinepajak-david-assessment.git
 cd YOUR_REPO_NAME
 ```
 **2. Install dependencies:**
