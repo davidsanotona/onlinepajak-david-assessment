@@ -14,7 +14,7 @@ PajakSight is an automated AI and machine learning reporting co-pilot designed f
 * `requirements.txt`: List of Python dependencies required to run the notebook.
 * `company_metrics_data.csv`: data used for running the notebook
 
-## How to Run Locally
+## How to Run Locally (The MVP won't work on github, you need to run it on your own IDE)
 
 **1. Clone the repository:**
 ```bash
